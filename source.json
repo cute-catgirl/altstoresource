@@ -1,0 +1,30 @@
+{
+  "name": "Mae's Apps",
+  "subtitle": "Apps developed by Mae Moon",
+  "apps": [
+    {
+        "name": "Recipes",
+        "bundleIdentifier": "com.example.myapp",
+        "developerName": "Mae Moon",
+        "subtitle": "Store your recipes in one place",
+        "localizedDescription": "An app to store recipes",
+        "iconURL": "TODO",
+        "tintColor": "#FF375E",
+        "category": "utilities",
+        "versions": [
+            "versions": [
+                {
+                  "version": "1.0",
+                  "date": "2024-07-11",
+                  "localizedDescription": "First release!",
+                  "downloadURL": "TODO",
+                  "minOSVersion": "17.0",
+                  "maxOSVersion": "18.0"
+                },
+              ]
+        ],
+        "appPermissions": {}
+    }
+],
+  "news": [],
+}
