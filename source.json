@@ -8,7 +8,7 @@
         "developerName": "Mae Moon",
         "subtitle": "Store your recipes in one place",
         "localizedDescription": "An app to store recipes",
-        "iconURL": "TODO",
+        "iconURL": "https://github.com/cute-catgirl/altstoresource/blob/main/icon.png?raw=true",
         "tintColor": "#FF375E",
         "category": "utilities",
         "versions": [
