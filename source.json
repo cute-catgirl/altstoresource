@@ -1,30 +1,28 @@
 {
-  "name": "Mae's Apps",
-  "subtitle": "Apps developed by Mae Moon",
-  "apps": [
-    {
-        "name": "Recipes",
-        "bundleIdentifier": "com.example.myapp",
-        "developerName": "Mae Moon",
-        "subtitle": "Store your recipes in one place",
-        "localizedDescription": "An app to store recipes",
-        "iconURL": "https://github.com/cute-catgirl/altstoresource/blob/main/icon.png?raw=true",
-        "tintColor": "#FF375E",
-        "category": "utilities",
-        "versions": [
+    "name": "Mae's Apps",
+    "subtitle": "Apps developed by Mae Moon",
+    "apps": [
+        {
+            "name": "Recipes",
+            "bundleIdentifier": "com.example.myapp",
+            "developerName": "Mae Moon",
+            "subtitle": "Store your recipes in one place",
+            "localizedDescription": "An app to store recipes",
+            "iconURL": "https://github.com/cute-catgirl/altstoresource/blob/main/icon.png?raw=true",
+            "tintColor": "#FF375E",
+            "category": "utilities",
             "versions": [
                 {
-                  "version": "1.0",
-                  "date": "2024-07-11",
-                  "localizedDescription": "First release!",
-                  "downloadURL": "https://github.com/cute-catgirl/altstoresource/raw/main/recipes.ipa",
-                  "minOSVersion": "17.0",
-                  "maxOSVersion": "18.0"
-                },
-              ]
-        ],
-        "appPermissions": {}
-    }
-],
-  "news": [],
+                    "version": "1.0",
+                    "date": "2024-07-11",
+                    "localizedDescription": "First release!",
+                    "downloadURL": "https://github.com/cute-catgirl/altstoresource/raw/main/recipes.ipa",
+                    "minOSVersion": "17.0",
+                    "maxOSVersion": "18.0"
+                }
+            ],
+            "appPermissions": {}
+        }
+    ],
+    "news": []
 }
