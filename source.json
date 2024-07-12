@@ -4,7 +4,7 @@
     "apps": [
         {
             "name": "Recipes",
-            "bundleIdentifier": "com.example.myapp",
+            "bundleIdentifier": "name.maemoon.RecipesRecode",
             "developerName": "Mae Moon",
             "subtitle": "Store your recipes in one place",
             "localizedDescription": "An app to store recipes",
